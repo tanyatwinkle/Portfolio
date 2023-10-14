@@ -8,6 +8,7 @@
   margin: 0 auto;
   max-width: 600px;
   padding: 20px;
+  align-items: center;
 }
 
 header {
@@ -63,6 +64,7 @@ a {
 
 .App-link {
   color: #61dafb;
+  align-items: center;
 }
 
 @keyframes App-logo-spin {
